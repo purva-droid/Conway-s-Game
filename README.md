@@ -2,7 +2,7 @@
 """
 conway.py 
 A simple Python/matplotlib implementation of Conway's Game of Life.
-Author: Mahesh Venkitachalam
+
 """
 
 import sys, argparse
